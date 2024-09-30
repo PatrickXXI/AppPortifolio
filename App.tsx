@@ -75,7 +75,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     padding: 20,
-    backgroundColor:'#fb8500'
+    backgroundColor:'#fb8500',
   },
   button: {
     backgroundColor: 'black',
@@ -120,7 +120,7 @@ const styles = StyleSheet.create({
   skills:{
     marginVertical:10,
     fontSize:20,
-    color:'white'
+    color:'white',
   }
 });
 
