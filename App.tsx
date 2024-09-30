@@ -112,9 +112,9 @@ const styles = StyleSheet.create({
     fontSize: 16, // Tamanho do texto
   },
   image: {
-    width: 100, // Largura da imagem
-    height: 100, // Altura da imagem
-    borderRadius: 50, // Tornar a imagem circular
+    width: 150, // Largura da imagem
+    height: 150, // Altura da imagem
+    borderRadius: 60, // Tornar a imagem circular
     marginBottom: 60,
   },
   skills:{
